@@ -4,7 +4,7 @@
 			<style>
                 .container {
                     display: flex;
-                    height: 100vh;
+                    height: 400px;
                     font-size: 5rem;
                     font-weight: 600;
                     overflow: hidden;
